@@ -1,0 +1,7 @@
+{
+	"SourceFiles": [
+		"D:\\UNREALprojects\\ShadingTest\\SSTest\\Plugins\\StreetMap\\Source\\StreetMapImporting\\StreetMapImporting.Build.cs",
+		"D:\\UNREALprojects\\ShadingTest\\SSTest\\Plugins\\StreetMap\\Source\\StreetMapRuntime\\StreetMapRuntime.Build.cs"
+	],
+	"EngineVersion": "4.25.4"
+}
